@@ -34,7 +34,7 @@ scene.add(pointLight);
 // Load font and create 3D text
 const loader = new FontLoader();
 loader.load('https://threejs.org/examples/fonts/helvetiker_regular.typeface.json', function(font) {
-    const textGeometry = new TextGeometry('MOSSHEAD', {
+    const textGeometry = new TextGeometry('SRASHTI', {
         font: font,
         size: 0.5,
         height: 0.01,
